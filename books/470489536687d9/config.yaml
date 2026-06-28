@@ -6,6 +6,7 @@ summary: |-
   簡単に言うと、コンピュータに立体描画させることなんですが、どうやって描画させているでしょうか？
   そういった事を、説明していきます。
 
+allow_override: true
 topics: []
 published: false
 price: 0
