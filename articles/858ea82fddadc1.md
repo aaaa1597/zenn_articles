@@ -18,6 +18,7 @@ published_at: "2026-05-02 11:15"
 [Kaggle実践1(『Titanic生存者予測』5.年齢の特徴量エンジニアリング)](https://zenn.dev/rg687076/articles/04f64c76d7ffb6)
 [Kaggle実践1(『Titanic生存者予測』6.(箸休め)ローカルでKaggle Titanicの実行環境をつくる)](https://zenn.dev/rg687076/articles/00bcccd2aca95a)
 [Kaggle実践1(『Titanic生存者予測』7.ローカルでKaggle Titanicの実行環境をつくる)](https://zenn.dev/rg687076/articles/519f398b373e26)
+[Kaggle実践1(『Titanic生存者予測』8.Cabinの特徴量エンジニアリング](https://zenn.dev/rg687076/articles/zenn_260627_1940_01_cabin_feature)
 
 
 https://www.kaggle.com/c/titanic
