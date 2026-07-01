@@ -11,8 +11,8 @@ published: true
 published_at: "2026-06-27 08:55"
 ---
 
-[Kaggle実践1(『Titanic生存者予測』1.ローカルにKaggle Titanicの実行環境をつくる](https://zenn.dev/rg687076/articles/zenn_260627_0000_00_Create_local_Titanic_environment)
-[Kaggle実践1(『Titanic生存者予測』2.最初の提出](https://zenn.dev/rg687076/articles/zenn_260627_0000_01_first_submission)
+[Kaggle実践1(『Titanic生存者予測』1.ローカルPCにKaggle Titanicの実行環境をつくる](https://zenn.dev/rg687076/articles/zenn_260627_0000_00_create_local_titanic_env)
+[Kaggle実践1(『Titanic生存者予測』2.初回提出](https://zenn.dev/rg687076/articles/zenn_260627_0000_01_first_submission)
 [Kaggle実践1(『Titanic生存者予測』3.Cabinの特徴量エンジニアリング](https://zenn.dev/rg687076/articles/zenn_260627_1940_01_cabin_feature)
 
 https://www.kaggle.com/c/titanic

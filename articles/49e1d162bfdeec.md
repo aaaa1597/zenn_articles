@@ -17,6 +17,7 @@ published_at: "2026-04-06 19:47"
 [Kaggle入門14(ゲームAIと強化学習入門 4.最終回 深層強化学習)](https://zenn.dev/rg687076/articles/0978c30a568247)
 
 ← [Kaggle入門13(機械学習の説明可能性)](https://zenn.dev/rg687076/articles/89fe247589e22a)
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[Kaggle実践1『Titanic生存者予測』](https://zenn.dev/rg687076/articles/zenn_260627_0000_00_create_local_titanic_env) →
 
 # ゲームAIと強化学習入門
 古典的なアルゴリズムと最先端のアルゴリズムを駆使して、独自のビデオゲームボットを構築しましょう。
