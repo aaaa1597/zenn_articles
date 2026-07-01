@@ -19,8 +19,7 @@ https://www.kaggle.com/c/titanic
 ← [Kaggle入門14(ゲームAIと強化学習入門)](https://zenn.dev/rg687076/articles/49e1d162bfdeec)
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[Kaggle実践2(xxxx)](https://zenn.dev/rg687076/articles/xxxx) →
 
-# githubに公開中
-https://github.com/kito2718/KaggleTitanic/blob/main/notebooks/titanic_eda.ipynb
+[github公開中](https://github.com/kito2718/KaggleTitanic/blob/main/notebooks/titanic_eda.ipynb)
 
 # Abstract
 - Kaggleのタイタニックコンペに参加、データを探索的に分析(EDA)した
